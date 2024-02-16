@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baran</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Spotify to Apple Music](https://github.com/alibaranb/spotify-to-appleMusic)
+- 🔭 My last project is [ComboSplitter]([https://github.com/alibaranb/spotify-to-appleMusic](https://github.com/alibaranb/ComboSplitter))
 
 - 🌱 I’m currently learning **Frontend**
 
