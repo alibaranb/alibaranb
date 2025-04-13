@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Baran</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-- 🔭 My last project is [WhyNoFollow](https://github.com/alibaranb/WhyNoFollow)
+- 🔭 My last project is [2DAdventureGame](https://github.com/alibaranb/2DAdventureGame)
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently learning **Frontend Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alibaranb](https://github.com/alibaranb)
 
